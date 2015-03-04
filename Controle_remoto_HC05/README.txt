@@ -1,0 +1,3 @@
+Código em asm para o módulo externo do Controle remoto para PC.
+
+Era ligado a porta serial do PC, para comunicação e alimentação. Esquema e mais detalhes em breve no blog...
