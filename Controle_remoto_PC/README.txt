@@ -1,0 +1,3 @@
+Segunda versão do meu software para controlar um PC via controle remoto infravermelho. A primeira versão usei por muitos anos, mas perdi o código fonte. Esta era pra ser mais completa.
+
+Iniciado em 2002 e não finalizada (surgiram os controles USB). Ainda tem o hardware externo, colocarei mais detalhes em breve no blog...
